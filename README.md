@@ -1,5 +1,4 @@
-Project Title: AI-Driven Supply Chain Disruption Predictor
-and Inventory Optimization System
+                                                Project Title: AI-Driven Supply Chain Disruption Predictor and Inventory Optimization System
 
 Project Statement:
 This project aims to develop an advanced AI-powered system that revolutionizes
@@ -11,7 +10,6 @@ alerts, the system will provide predictive insights on supply chain risks and au
 inventory adjustments. This comprehensive solution will enable businesses to
 proactively manage supply chain disruptions, optimize inventory levels, and maintain
 operational continuity in the face of global uncertainties.
-
 
 Outcomes:
 ● Accurate prediction of supply chain disruptions through analysis of news,
