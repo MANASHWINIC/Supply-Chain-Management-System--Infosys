@@ -1,0 +1,56 @@
+Project Title: AI-Driven Supply Chain Disruption Predictor
+and Inventory Optimization System
+
+Project Statement:
+This project aims to develop an advanced AI-powered system that revolutionizes
+supply chain management by monitoring global supply chain data, predicting
+potential disruptions, and optimizing inventory levels accordingly. By leveraging
+LLMs like OpenAI GPT, Meta LLaMA for natural language processing and data
+analysis, integrating with Google Sheets, and utilizing Slack or Email for real-time
+alerts, the system will provide predictive insights on supply chain risks and automate
+inventory adjustments. This comprehensive solution will enable businesses to
+proactively manage supply chain disruptions, optimize inventory levels, and maintain
+operational continuity in the face of global uncertainties.
+
+
+Understanding of the Problem Statement:
+  This project is centered around leveraging AI, particularly large language models (LLMs), to improve supply chain management. Here's a breakdown of the key aspects for better understanding:
+Core Concepts
+Supply Chain Management:
+Managing the flow of goods, services, and information from suppliers to customers while addressing risks and ensuring efficiency.
+AI-Powered Insights:
+Using machine learning and natural language processing (NLP) to analyze vast amounts of global data and predict supply chain disruptions.
+Optimization:
+Automatically adjusting inventory levels and operations based on predictive insights to ensure continuity and reduce costs.
+Milestone 1:
+Python code to fetch news on Supply Chain management through api:
+import requests
+import json
+import pandas as pd
+from datetime import datetime
+API_KEY = "7ec5108481734c49aa4dcdd21680fc79"
+BASE_URL = "https://newsapi.org/v2/everything"
+params = {
+    "q": "supply chain disruption OR port delays OR geopolitical conflict",
+    "from": "2024-12-01",  # Start date
+    "to": "2023-12-22",    # End date
+    "language": "en",
+    "sortBy": "relevancy",
+    "apiKey": API_KEY
+}
+
+response = requests.get(BASE_URL, params=params)
+
+if response.status_code == 200:
+    try:
+        news_data = response.json()
+        print(json.dumps(news_data, indent=4))
+    except json.JSONDecodeError as e:
+        print("Error decoding JSON:", e)
+        print("Response content:", response.text)
+else:
+    print(f"Error: HTTP {response.status_code}")
+    print("Response content:", response.text)
+
+
+
