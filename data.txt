@@ -1,0 +1,1307 @@
+
+{
+    "status": "ok",
+    "totalResults": 4344,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Chris Panella",
+            "title": "The US Navy's grappling with another Ford-class supercarrier delay that could run into the next decade",
+            "description": "Navy officials blamed USS Enterprise's extended delays on supply chain issues and lingering COVID-19 issues.",
+            "url": "https://www.businessinsider.com/us-navy-grappling-with-another-ford-class-supercarrier-delay-2024-4",
+            "urlToImage": "https://i.insider.com/6615888516bde8d4ead705c8?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T18:38:02Z",
+            "content": "Gerald R. Ford is the U.S. Navy's newest and most advanced aircraft carrier, representing a generational leap in the U.S. Navy's capacity to project power on a global scale.U.S. Navy photo by Mass Co\u2026 [+5091 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Phil Rosen",
+            "title": "Here's why the Fed isn't going to cut interest rates this year, according to one market strategist",
+            "description": "Supply chain disruptions and a resurgence of inflationary pressures stemming from attacks in the Red Sea will surprise markets, the strategist said.",
+            "url": "https://www.businessinsider.com/fed-rate-cuts-central-bank-inflation-markets-investors-policy-investors-2024-1",
+            "urlToImage": "https://i.insider.com/659d4fdfdcdb354a9855ce26?width=1200&format=jpeg",
+            "publishedAt": "2024-01-09T14:37:53Z",
+            "content": "The Fed isn't going to cut interest rates this year, according to Hightower Resource Advisors' Tracy Schuchart.Chip Somodevilla/Getty\r\n<ul>\n<li>One market strategist doesn't expect the Federal Reserv\u2026 [+2926 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Aarian Marshall",
+            "title": "Biden Is Trying to Buy EVs Time With New Tariffs on China. It Might Not Work",
+            "description": "America now has 100% tariffs on Chinese electric vehicles, but with US automakers struggling to compete and its reliance on China\u2019s materials, will this help? Mercedes, BMW and VW think not.",
+            "url": "https://www.wired.com/story/new-ev-china-tariffs-biden/",
+            "urlToImage": "https://media.wired.com/photos/664366addd1a5ee9b6c95ba7/191:100/w_1280,c_limit/Chinese-EV-Tariffs-Gear-GettyImages-2152725984.jpg",
+            "publishedAt": "2024-05-14T20:11:43Z",
+            "content": "Today, the Biden administration announced a near-unprecedented 100 percent tariff on Chinese-made electric vehicles, a move the White House said would protect the American industry from unfairly pric\u2026 [+3401 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Pete Syme,Taylor Rains",
+            "title": "Boeing and Airbus go head-to-head at a giant industry airshow every 2 years. This time, neither won.",
+            "description": "Airbus won more orders than a subdued Boeing, but supply-chain issues took center stage as Farnborough saw reduced airline business.",
+            "url": "https://www.businessinsider.com/neither-boeing-nor-airbus-won-this-years-farnborough-airshow-2024-7",
+            "urlToImage": "https://i.insider.com/66a788c41a227600e6325132?width=1200&format=jpeg",
+            "publishedAt": "2024-07-29T14:19:20Z",
+            "content": "The entrance to the Farnborough Airshow.Rasid Necati Aslim/Anadolu via Getty Images\r\n<ul><li>Airbus beat Boeing in the orders tally at last week's Farnborough Airshow.</li><li>But orders were down fr\u2026 [+3387 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Chris Panella",
+            "title": "Weak shipbuilding could be the US Navy's Achilles' heel in a war with China",
+            "description": "A hollowed out industrial base, which the Navy depends on, could spell trouble for the sea service in a high-end conflict in the Pacific.",
+            "url": "https://www.businessinsider.com/us-shipbuilding-problems-could-be-navys-achilles-heel-china-war-2024-11",
+            "urlToImage": "https://i.insider.com/67375679192f52589858ca66?width=1200&format=jpeg",
+            "publishedAt": "2024-11-17T09:00:02Z",
+            "content": "The US Navy's shipbuilding muscles have atrophied, leaving it with a serious problem amid China's massive military buildup.Thiep Nguyen/US Navy\r\nThe US Navy faces critical shipbuilding problems that \u2026 [+12526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "Apple\u2019s supply chain could include \u2018blood minerals\u2019 from eastern Congo",
+            "description": "International lawyers representing the government of the Democratic Republic of Congo have said that Apple\u2019s supply chain could include \u201cconflict minerals\u201d or \u201cblood minerals.\u201d\n\n\n\nThe terms are used to refer to minerals sourced from conflict zones, in which a\u2026",
+            "url": "https://9to5mac.com/2024/05/23/blood-minerals-apple-supply-chain/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/Apples-supply-chain-could-include-blood-minerals.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-05-23T11:47:24Z",
+            "content": "International lawyers representing the government of the Democratic Republic of Congo have said that Apple\u2019s supply chain could include \u201cconflict minerals\u201d or \u201cblood minerals.\u201d\r\nThe terms are used to\u2026 [+2411 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman, Matt Burgess",
+            "title": "Your Phone Won\u2019t Be the Next Exploding Pager",
+            "description": "Thousands of beepers and two-way radios exploded in attacks against Hezbollah, but mainstream consumer devices like smartphones aren\u2019t likely to be weaponized the same way.",
+            "url": "https://www.wired.com/story/exploding-pagers-hezbollah-phones/",
+            "urlToImage": "https://media.wired.com/photos/66eae101f43a9a740db3b967/191:100/w_1280,c_limit/hazbollah-pagers-2171995947.jpg",
+            "publishedAt": "2024-09-19T13:57:47Z",
+            "content": "Amid ongoing violent conflict with Israel, Hezbollahs digital communications and activities are also under constant barrage from Israeli hackers. In fact, this constant digital assault reportedly pla\u2026 [+3203 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Chris Panella",
+            "title": "US Navy's new submarines are 'in crisis' as costs balloon by $17 billion, lawmaker says",
+            "description": "The Navy's nuclear-powered Virginia class sub, which it's supposed to build two of a year, is facing major delays and ballooning costs.",
+            "url": "https://www.businessinsider.com/us-navy-submarines-17-billion-over-budget-in-crisis-lawmaker-2024-9",
+            "urlToImage": "https://i.insider.com/66ed9055d17aa3c7b2b487c8?width=1200&format=jpeg",
+            "publishedAt": "2024-09-20T21:44:47Z",
+            "content": "The Virginia-class submarine USS Hawaii just recently finished a historic maintenance period with the Royal Australian Navy as part of AUKUS efforts.US Navy photo by Rory O'Connor\r\n<ul><li>The US Nav\u2026 [+5762 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "John L. Dorman",
+            "title": "Trump's stance on Taiwan could potentially be devastating for the US economy",
+            "description": "Former President Trump could upend the longstanding diplomatic relationship between the US and Taiwan should he retake the White House.",
+            "url": "https://www.businessinsider.com/trump-taiwan-china-semiconductor-chips-us-economy-trade-biden-election-2024-7",
+            "urlToImage": "https://i.insider.com/66982d92fb2b6bedb0581862?width=1200&format=jpeg",
+            "publishedAt": "2024-07-18T09:31:02Z",
+            "content": "Former President Donald Trump in a recent Bloomberg Businessweek interview called for Taiwan to pay the US for its defense.Scott Olson/Getty Images\r\n<ul><li>Former President Trump's remarks about Tai\u2026 [+4387 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Benjamin Mayo",
+            "title": "Congo accuses Apple of using illegal conflict minerals in its supply chain",
+            "description": "The Democratic Republic of Congo is accusing Apple of using illegally exploited minerals sourced in the eastern regions, involving violence, child labor and other human rights violations. \n\n\n\nThis allegation disagrees with Apple\u2019s published Conflict Minerals \u2026",
+            "url": "https://9to5mac.com/2024/04/25/apple-illegal-congo-conflict-minerals/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/iPhone-production.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-04-25T10:09:40Z",
+            "content": "The Democratic Republic of Congo is accusing Apple of using illegally exploited minerals sourced in the eastern regions, involving violence, child labor and other human rights violations. \r\nThis alle\u2026 [+1249 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "John Towfighi",
+            "title": "Trade between the US and Germany is growing. Concerns over China might be driving the shift.",
+            "description": "The US became Germany's top trading partner, ending an eight-year streak by China. The shift reflects competition over electric vehicles.",
+            "url": "https://www.businessinsider.com/us-germany-trade-partners-china-tariffs-electric-vehicle-biden-trump-2024-6",
+            "urlToImage": "https://i.insider.com/66759fa150b021b5cae85460?width=1200&format=jpeg",
+            "publishedAt": "2024-06-24T18:31:13Z",
+            "content": "The US became Germany's top trading partner in the first quarter of 2024.Vector/Getty Images\r\n<ul><li>The US was Germany's top trade partner in the first quarter of this year, replacing China.</li><l\u2026 [+5566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoblog"
+            },
+            "author": "Reuters",
+            "title": "Tesla Berlin to stop most output for two weeks due to Red Sea disruption",
+            "description": "Filed under:\n Green,Plants/Manufacturing,Tesla,Electric,Infrastructure\n Continue reading Tesla Berlin to stop most output for two weeks due to Red Sea disruption\nTesla Berlin to stop most output for two weeks due to Red Sea disruption originally appeared on A\u2026",
+            "url": "https://www.autoblog.com/2024/01/12/tesla-berlin-to-stop-most-output-for-two-weeks-due-to-red-sea-disruption/",
+            "urlToImage": "https://s.aolcdn.com/images/dims3/GLOB/crop/6000x3375+0+625/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2024/01/12083041/tesla_holds_community_event_on_planned_expansion_of_german_plant.jpg",
+            "publishedAt": "2024-01-12T13:45:00Z",
+            "content": "BERLIN -Tesla will suspend most car production at its factory near Berlin from Jan. 29 to Feb. 11, the company said late on Thursday, citing a lack of components owing to shifts in transport routes b\u2026 [+4157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "James Rogers",
+            "title": "These retail stocks could be exposed to Red Sea disruption, say analysts",
+            "description": "Investor anxiety is \u201cbrewing\u201d over ocean shipping rates amid the disruption caused by Houthi attacks in the Red Sea, says Wells Fargo",
+            "url": "https://www.marketwatch.com/story/these-retail-stocks-could-be-exposed-to-red-sea-disruption-say-analysts-55efddf8",
+            "urlToImage": "https://images.mktw.net/im-83965636/social",
+            "publishedAt": "2024-01-26T16:39:00Z",
+            "content": "A number of retail stocks could be exposed to the fallout from the Houthi attacks on cargo ships in the Red Sea, say analysts.\u00a0Investor anxiety is brewing over ocean shipping rates, according to Well\u2026 [+5630 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg",
+            "title": "First Israel\u2019s Exploding Pagers Maimed and Killed. Now Comes the Paranoia",
+            "description": "The explosion of thousands of rigged pagers and walkie-talkies will likely make Hezbollah operatives fear any means of electronic communication. It\u2019s having the same effect on the Lebanese population.",
+            "url": "https://www.wired.com/story/hezbollah-israel-exploding-pagers-paranoia/",
+            "urlToImage": "https://media.wired.com/photos/66eb25c5b4929ae83e166e9e/191:100/w_1280,c_limit/Lebanon_Device_Explosions_GettyImages-2171814790.jpg",
+            "publishedAt": "2024-09-19T14:16:21Z",
+            "content": "They don't trust their smartphones, so they reach back to these more archaic devices, and those blow up. What's next? says Schneier. Everything becomes less efficient, because they can't communicate \u2026 [+4679 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Max Zahn",
+            "title": "What the US attack in Yemen means for oil prices, inflation",
+            "description": "A wider escalation could drive up the price of oil and many consumer goods.",
+            "url": "https://abcnews.go.com/Business/us-attack-yemen-means-oil-prices-inflation/story?id=106320536",
+            "urlToImage": "https://i.abcnewsfe.com/a/c4b0ef82-e8aa-491a-a00d-00d509d0ae6c/Suez-freight-gty-jm-240112_1705080175690_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-01-12T18:47:20Z",
+            "content": "U.S. airstrikes against Houthi targets in Yemen on Thursday night escalated an ongoing conflict over a shipping route that holds significant implications for oil prices and inflation.\r\nThe military o\u2026 [+4432 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Congo demands that Apple prove iPhone doesn't use conflict materials",
+            "description": "The Democratic Republic of Congo has told Apple it believes the iPhone maker's supply chain is using materials linked to militia groups.Apple has been asked to verify that it doesn't use \"conflict minerals\" in the iPhoneApple and at least most Big Tech manufa\u2026",
+            "url": "https://appleinsider.com/articles/24/04/25/congo-demands-that-apple-prove-iphone-doesnt-use-conflict-materials",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/46933-91459-000-lead-Mining-xl.jpg",
+            "publishedAt": "2024-04-25T10:12:59Z",
+            "content": "Apple has been asked to verify that it doesn't use \"conflict minerals\" in the iPhone\r\nThe Democratic Republic of Congo has told Apple it believes the iPhone maker's supply chain is using materials li\u2026 [+2657 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ana Altchek",
+            "title": "Why are hundreds of Teslas parked outside a dying shopping mall? A local news station solved the mystery.",
+            "description": "Tesla has been storing hundreds of its EVs outside a Missouri Mall that's scheduled to shut down in October.",
+            "url": "https://www.businessinsider.com/hundreds-of-teslas-parked-outside-missouri-mall-shutting-down-2024-5",
+            "urlToImage": "https://i.insider.com/66436cb8f27898f532d75aec?width=1200&format=jpeg",
+            "publishedAt": "2024-05-14T21:31:21Z",
+            "content": "Between 300 and 400 Tesla EVs are being stored outside Chesterfield Mall. Justin Sullivan/Getty\r\n<ul><li>Hundreds of\u00a0Teslas\u00a0are parked outside a mall in Missouri, including dozens of Cybertrucks.</li\u2026 [+3289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "Tim Cook and 20 other CEOs met China\u2019s premier to discuss potential issues with Trump plans",
+            "description": "Apple CEO Tim Cook and more than 20 other chief execs met China\u2019s premier today to discuss potential trade disruption once Trump takes office in January.\n\n\n\nHowever, the report makes it sound like the meeting didn\u2019t achieve much, with some saying it felt scri\u2026",
+            "url": "https://9to5mac.com/2024/11/25/tim-cook-and-20-other-ceos-met-chinas-premier-to-discuss-potential-issues-with-trump-plans/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/Tim-Cook-and-20-other-CEOs-met-Chinas-premier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-11-25T15:12:00Z",
+            "content": "Apple CEO Tim Cook and more than 20 other chief execs met China\u2019s premier today to discuss potential trade disruption once Trump takes office in January.\r\nHowever, the report makes it sound like the \u2026 [+2341 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Shelley E. Kohan, Senior Contributor, \n Shelley E. Kohan, Senior Contributor\n https://www.forbes.com/sites/shelleykohan/",
+            "title": "Port Worker Deal Offers Relief, Yet Supply Chain Disruption Looms",
+            "description": "The temporary contract extension only goes through mid-January, and if the parties do not come to an agreement, the strike could be back on.",
+            "url": "https://www.forbes.com/sites/shelleykohan/2024/10/08/port-worker-deal-extends-relief-but-future-supply-chain-disruption-looms/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66fef966d0eaab7a93a6d3b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-10-08T10:00:00Z",
+            "content": "Supply chain disruptions from the East Coast and Gulf Coast port strikes could have several ... [+] significant impacts on the holiday selling season (Photo by Mark Felix / AFP) (Photo by MARK FELIX/\u2026 [+4768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "China to get Apple Vision Pro by May at latest",
+            "description": "A new supply chain report says that Apple will release the Apple Vision Pro in China in either April or May.An Apple Vision Pro on sale in the Apple StoreApple Vision Pro was launched exclusively in the US, but right from the start there have been reports tha\u2026",
+            "url": "https://appleinsider.com/articles/24/02/06/china-to-get-apple-vision-pro-by-may-at-latest",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/58482-119159-000-lead-AVP-xl.jpg",
+            "publishedAt": "2024-02-06T11:55:27Z",
+            "content": "An Apple Vision Pro on sale in the Apple Store\r\nA new supply chain report says that Apple will release the Apple Vision Pro in China in either April or May.\r\nApple Vision Pro was launched exclusively\u2026 [+1307 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Polly Thompson",
+            "title": "China is reportedly developing military drones that can split into 6 to overwhelm enemy defenses",
+            "description": "A group of Chinese researchers from Nanjing University School of Aeronautics unveiled the designs last month.",
+            "url": "https://www.businessinsider.com/china-developing-advanced-military-drones-split-into-6-midair-report-2024-3",
+            "urlToImage": "https://i.insider.com/65fd766f2417f97b87ce53c2?width=1200&format=jpeg",
+            "publishedAt": "2024-03-24T09:02:01Z",
+            "content": "Chinese researchers say the new drones will give the PLA a tactical advantage. VCG/Getty\r\n<ul><li>Chinese researchers have unveiled a military drone capable of splitting into six units in midair.\u00a0</l\u2026 [+3894 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "One week on, how the Lebanon attacks have changed the Middle East",
+            "description": "David Aaronovitch asks why the operation was carried out - and what we can expect in the weeks ahead.",
+            "url": "https://www.bbc.com/news/articles/c5y8gv1d8j8o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ea33/live/ea44f140-7a6f-11ef-b282-4535eb84fe4b.png",
+            "publishedAt": "2024-09-24T12:54:57Z",
+            "content": "The war in Gaza always had the capacity to spread. Near-daily rocket attacks in and around northern Israel by Hezbollah, Hamas's Lebanese allies, and air strikes by Israel have displaced tens of thou\u2026 [+9237 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sponsor Post",
+            "title": "How to integrate OT and IT for maximum business value",
+            "description": "Discover how OT and IT integration boosts agility, optimizes operations, and sharpens competitive edges for informed decision-making.",
+            "url": "https://www.businessinsider.com/sc/how-to-integrate-ot-and-it-for-maximum-business-value",
+            "urlToImage": "https://i.insider.com/660c408f16bde8d4ead4c716?width=1200&format=jpeg",
+            "publishedAt": "2024-05-13T16:05:01Z",
+            "content": "Getty Images\r\nBy Ganesh Bukka, Vice President & Global Head, Industry 4.0, Hitachi Digital ServicesData is supposed to unlock operational efficiency and productivity. Too often, it instead leaves bus\u2026 [+6396 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Berlin Apple Store vandalized by Congo activists",
+            "description": "Protesting the alleged exploitation of the Congo by tech firms including Apple, activists have spray-painted Berlin's Apple Rosenthaler Strasse store.Berlin Apple Store vandalized (Source: Nexta.tv)Apple has been accused of its supply chain using what are cal\u2026",
+            "url": "https://appleinsider.com/articles/24/05/17/berlin-apple-store-vandalized-by-congo-activists",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/59710-122034-000-lead-Berlin-xl.jpg",
+            "publishedAt": "2024-05-17T14:35:43Z",
+            "content": "Berlin Apple Store vandalized (Source: Nexta.tv)\r\nProtesting the alleged exploitation of the Congo by tech firms including Apple, activists have spray-painted Berlin's Apple Rosenthaler Strasse store\u2026 [+2378 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Rob Schmitz",
+            "title": "A court orders Netherlands to halt fighter jet part exports to Israel over Gaza war",
+            "description": "The court said there is a \"clear risk that Israel's F-35 fighter jets might be used in the commission of serious violations of international humanitarian law.\"",
+            "url": "https://www.npr.org/2024/02/12/1230949031/netherlands-halts-f-35-jet-parts-israel",
+            "urlToImage": "https://media.npr.org/assets/img/2024/02/12/israel_air_force_23180638451110_wide-489ce335266628b12f127a5ce95ce328bc20b2b0-s1400-c100.jpg",
+            "publishedAt": "2024-02-12T20:36:51Z",
+            "content": "An Israeli air force F-35 warplane flies over during a graduation ceremony for new pilots in Hatzerim air force base near the city of Beersheba, Israel, June 29, 2023.\r\nTsafrir Abayov/AP\r\nBERLIN A Du\u2026 [+2616 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jeffrey Cane",
+            "title": "Wall Street cheers as billion-dollar deals make a comeback",
+            "description": "From Mars to Verizon, the billion-dollar megadeals are making a comeback. Is this the start of an M&A boom?",
+            "url": "https://www.businessinsider.com/megamergers-deals-m-a-wall-street-comeback-2024-9",
+            "urlToImage": "https://i.insider.com/66f6d9f475c877a99b6147fe?width=1200&format=jpeg",
+            "publishedAt": "2024-09-27T16:18:22Z",
+            "content": "Robert Alexander/Getty Images; Jenny Chang-Rodriguez/BI\r\n<ul><li>Mars, Verizon, and now possibly Qualcomm have been on the hunt for big acquisition targets.</li><li>Deals valued at $1 billion-plus wo\u2026 [+3348 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "South China Morning Post",
+            "title": "Taiwan's prized semiconductors not unbreakable 'silicon shield' they once were as mainland China, West develop own bargaining chips",
+            "description": "A sharp decline in Taiwan's ties with mainland China could extend to the very devices being used to transmit and read this story. The far-reaching...",
+            "url": "https://finance.yahoo.com/news/taiwans-prized-semiconductors-not-unbreakable-093000778.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2024-05-23T09:30:00Z",
+            "content": "A sharp decline in Taiwan's ties with mainland China could extend to the very devices being used to transmit and read this story.\r\nThe far-reaching implications from what has been a geopolitical tug \u2026 [+12832 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Myra P. Saefong",
+            "title": "If Iran attacks Israel, Middle East turmoil could lift oil past $100 a barrel",
+            "description": "Oil traders know the all-too-familiar drill: Heightened tensions in the Middle East have led to a rally in prices \u2014 so far to the highest intraday levels in six months.",
+            "url": "https://www.marketwatch.com/story/if-iran-attacks-israel-middle-east-turmoil-could-lift-oil-past-100-a-barrel-fd76ea09",
+            "urlToImage": "https://images.mktw.net/im-05570800/social",
+            "publishedAt": "2024-04-12T17:22:00Z",
+            "content": "Oil traders know the all-too-familiar drill: Heightened tensions in the Middle East have led to a rally in prices so far to the highest intraday levels in six months. If Iran, one of the worlds large\u2026 [+5295 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Amber Neely)",
+            "title": "Congo government plans to crack down on buyers like Apple for conflict minerals",
+            "description": "The Democratic Republic of Congo (DRC) is considering legal action against tech companies such as Apple to reduce the amount of conflict minerals sourced from its eastern provinces.Mine with acid lake | Credit: dimitrisvetsikas1969 on PixabayThe Eastern Congo\u2026",
+            "url": "https://appleinsider.com/articles/24/10/07/congo-government-plans-to-crack-down-on-buyers-like-apple-for-conflict-minerals",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/61301-126635-mining-xl.jpg",
+            "publishedAt": "2024-10-07T15:02:24Z",
+            "content": "The Democratic Republic of Congo (DRC) is considering legal action against tech companies such as Apple to reduce the amount of conflict minerals sourced from its eastern provinces.\r\nThe Eastern Cong\u2026 [+1912 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alice Tecotzky,Erin Snodgrass",
+            "title": "A trio of crises threatens to upend the race 5 weeks before Election Day",
+            "description": "Political scientists warn that together, Hurricane Helene, violence in the Middle East, and a major strike, could have an impact on voters' decisions.",
+            "url": "https://www.businessinsider.com/kamala-harris-donald-trump-crises-middle-east-strike-hurricane-election-2024-10",
+            "urlToImage": "https://i.insider.com/66fc97d97de5c8fd48348444?width=1200&format=jpeg",
+            "publishedAt": "2024-10-03T09:00:02Z",
+            "content": "Kamala Harris has an uphill battle as the incumbent. Saul Loeb/AFP via Getty Images\r\n<ul><li>A trio of emergencies has all struck just five weeks ahead of the 2024 presidential election.</li><li>Viol\u2026 [+8371 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Antonia Colibasanu",
+            "title": "Any of these 3 hot spots could derail the global economy in 2024",
+            "description": "China\u2019s power, U.S. elections and Russia-Ukraine war are top concerns.",
+            "url": "https://www.marketwatch.com/story/any-of-these-3-hot-spots-could-derail-the-global-economy-in-2024-f5170126",
+            "urlToImage": "https://images.mktw.net/im-520647/social",
+            "publishedAt": "2024-01-12T12:15:00Z",
+            "content": "A year ago, we highlighted several trends that would\u00a0define the world economy\u00a0in the coming years. Briefly, they were trade and economic realignment, stagflation, and volatility and a likely slowdown\u2026 [+8570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Matt Horne",
+            "title": "Conflict minerals: The dark side of your smartphone",
+            "description": "The cost of the conflict minerals in your phone is often more than just money. Find out the dark story behind these resources.",
+            "url": "https://www.androidauthority.com/conflict-minerals-in-phone-3484680/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/05/SoC-application-processor-case-chipset.jpg",
+            "publishedAt": "2024-09-26T12:00:42Z",
+            "content": "Do you know the true cost of your new smartphone? The price may have been reason enough to give you pause before buying, but were talking about ethical considerations. Theres a good chance there are \u2026 [+6521 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Suzanne Nuyen",
+            "title": "Up First briefing: U.S. conducts airstrikes on militants in Iran; 2023 U.S. union wins",
+            "description": "President Biden orders retaliatory strikes against militants in Iraq after three U.S. servicemembers were injured. A look at the state of U.S. unions after several big 2023 wins.",
+            "url": "https://www.npr.org/2023/12/26/1221586450/up-first-briefing-u-s-conducts-airstrikes-on-militants-in-iran-2023-u-s-union-wi",
+            "urlToImage": "https://media.npr.org/assets/img/2023/12/26/c1230c035b1sm_wide-91c04ab6439c284425c28628c195d01d022a6da8-s1400-c100.jpg",
+            "publishedAt": "2023-12-26T13:06:55Z",
+            "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st\u2026 [+4665 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Canada intervenes to end freight rail shutdown triggered by labour dispute",
+            "description": "Ottawa orders railroads to enter arbitration with labour union to avert prolonged disruption to services.",
+            "url": "https://www.aljazeera.com/economy/2024/8/23/canada-intervenes-to-end-freight-rail-shutdown-triggered-by-labour-dispute",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/08/2020-02-14T194026Z_1414687990_RC2J0F9CAZKV_RTRMADP_3_TC-ENERGY-PIPELINE-1724373059_6f7e4d-1724376593.jpg?resize=1200%2C630&quality=80",
+            "publishedAt": "2024-08-23T01:44:28Z",
+            "content": "Canadas government has intervened to end a shutdown of freight rail services that had raised fears of supply-chain chaos across North America.\r\nLabour Minister Steve MacKinnon said on Thursday that f\u2026 [+2117 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Atlantic"
+            },
+            "author": "Raj Shah, Christopher Kirchhoff",
+            "title": "In Ukraine, We Saw a Glimpse of the Future of War",
+            "description": "Start-ups are redefining great-power conflict.",
+            "url": "https://www.theatlantic.com/ideas/archive/2024/07/ukraine-defense-silicon-valley-technology/678876/?utm_source=feed",
+            "urlToImage": null,
+            "publishedAt": "2024-07-03T09:00:00Z",
+            "content": "By late February 2022, Russian President Vladimir Putin had been amassing forces along Ukraine\u2019s border for months, arraying tanks, infantry, missiles, and attack helicopters in a 1,000-mile arc from\u2026 [+13290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-07-09T13:59:01Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Josh Margolin",
+            "title": "Israel had hand in manufacturing pagers that exploded in Lebanon: Source",
+            "description": "Israel had a hand in the actual manufacturing of the pagers that exploded on Hezbollah operatives this week, an attack that was in planning for at least 15 years.",
+            "url": "https://abcnews.go.com/International/israel-hand-manufacturing-pagers-exploded-lebanon-source/story?id=113851347",
+            "urlToImage": "https://i.abcnewsfe.com/a/a839af75-4847-452f-b8bc-600708587951/Exploding-pager-damage-DB-240918_1726656419591_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-09-19T20:28:31Z",
+            "content": "Israel had a hand in the manufacturing of pagers that exploded on Hezbollah operatives this week, with this type of \"supply chain interdiction\" operation having been planned for at least 15 years, a \u2026 [+1983 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "William Watts",
+            "title": "Oil falls as strong dollar outweighs worries over Middle East",
+            "description": "Oil futures lose ground early Wednesday.",
+            "url": "https://www.marketwatch.com/story/oil-falls-as-strong-dollar-outweighs-worries-over-middle-east-efe9db66",
+            "urlToImage": "https://images.mktw.net/im-246510/social",
+            "publishedAt": "2024-01-17T11:36:00Z",
+            "content": "Oil futures fell early Wednesday, feeling pressure as the U.S. dollar held near a one-month high and traders continued to play down worries over the potential for a wider conflict in the Middle East \u2026 [+1575 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Ray Dalio",
+            "title": "2024 Is a Pivotal Year on the Brink",
+            "description": "Ray Dalio on the five forces shaping 2024 that we need to focus on to measure risk.",
+            "url": "https://time.com/6556257/2024-pivotal-year-on-the-brink-ray-dalio/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1930879282.jpg?quality=85",
+            "publishedAt": "2024-01-17T03:00:00Z",
+            "content": "I believe that there are five big, interrelated influences that are driving the changing world order and that they tend to evolve in big cycles. They are:\r\n<ol><li>how well the debt/money/economic sy\u2026 [+28642 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Northwestern.edu"
+            },
+            "author": null,
+            "title": "A fuel cell that harvests energy from microbes living in dirt",
+            "description": "New tech harvests energy from microbes in soil to power sensors, communications",
+            "url": "https://news.northwestern.edu/stories/2024/01/dirt-powered-fuel-cell-runs-forever/",
+            "urlToImage": "https://news.northwestern.edu/assets/Stories/2024/01/dirt1940__FocusFillWzEyMDAsNjMwLCJ5Iiw4N10.jpg",
+            "publishedAt": "2024-01-18T19:50:24Z",
+            "content": "If you want to put a sensor out in the wild, in a farm or in a wetland, you are constrained to putting a battery in it or harvesting solar energy, Yen said. Solar panels dont work well in dirty envir\u2026 [+3805 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ArchDaily"
+            },
+            "author": "Maria-Cristina Florian",
+            "title": "On Ethics and Fair Labor in Architecture: The Example of Theaster Gates\u2019 Serpentine Pavilion Design",
+            "description": "When he was invited to design the 21st Serpentine Pavilion in London\u2019s Kensington Gardens public park, Chicago-based artist Theaster Gates envisioned a calm space to offer respite and a subtle exploration into the power of sound and music in architecture. Cre\u2026",
+            "url": "https://www.archdaily.com/1016950/on-ethics-and-fair-labor-in-architecture-the-example-of-theaster-gates-serpentine-pavilion-design",
+            "urlToImage": "https://images.adsttc.com/media/images/664e/fb6d/b044/0a50/8814/1ca4/large_jpg/on-ethics-and-fair-labor-in-architecture-the-example-of-theaster-gates-serpentine-pavilion-design_2.jpg?1716452224",
+            "publishedAt": "2024-05-23T07:30:00Z",
+            "content": "Serpentine Pavilion 2022 - Theaster Gates. Image \u00a9 Iwan Baan\r\nWhen he was invited to design the 21st Serpentine Pavilion in Londons Kensington Gardens public park, Chicago-based artist Theaster Gates\u2026 [+7285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "iPhone 16 Models Rumored to Come in These Colors",
+            "description": "Apple will unveil its new iPhone 16 lineup in a range of new colors later this year in the fall. Here are all the rumored colors so far for the four models: \u200ciPhone 16\u200c, \u200ciPhone 16\u200c Plus, iPhone 16 Pro, and \u200ciPhone 16 Pro\u200c Max.\n\n\n\n\n\n\n\niPhone 16 and iPhone 16 \u2026",
+            "url": "https://www.macrumors.com/2024/05/06/all-the-rumored-iphone-16-colors/",
+            "urlToImage": "https://images.macrumors.com/t/ELATlCHNQAuJsQdzmAXou9Z1QGA=/2500x/article-new/2024/02/iPhone-16-Camera-Lozenge-2.jpg",
+            "publishedAt": "2024-05-06T21:00:00Z",
+            "content": "Apple will unveil its new iPhone 16 lineup in a range of new colors later this year in the fall. Here are all the rumored colors so far for the four models: \u200ciPhone 16\u200c, \u200ciPhone 16\u200c Plus, iPhone 16 P\u2026 [+5017 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jake Epstein",
+            "title": "Israeli strikes dealt a serious blow to Iran's missile operations but far from destroyed them",
+            "description": "Satellite images show Israel's retaliatory attack caused damage at several military installations linked to Iran's missile program.",
+            "url": "https://www.businessinsider.com/iran-missile-operations-damaged-by-israeli-strikes-far-from-destroyed-2024-10",
+            "urlToImage": "https://i.insider.com/672107bda0a0cc14f2249b71?width=1200&format=jpeg",
+            "publishedAt": "2024-10-29T17:34:04Z",
+            "content": "Damaged buildings at the Parchin facility on October 27.Planet Labs PBC\r\n<ul><li>Israel targeted missile-making sites as part of its widespread strikes against Iran on Saturday.</li><li>Satellite ima\u2026 [+4921 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rebecca Rommen",
+            "title": "Israel has never been impressed with its version of the $1 billion Patriot air defense system. Now it could offload up to 8 to Ukraine.",
+            "description": "Ukraine has long coveted more of the $1 billion US-manufactured Patriot air defense systems.",
+            "url": "https://www.businessinsider.com/israel-send-patriot-air-defense-systems-ukraine-russia-report-2024-6",
+            "urlToImage": "https://i.insider.com/6680197b1aace5b3ada2e942?width=1200&format=jpeg",
+            "publishedAt": "2024-06-29T17:54:13Z",
+            "content": "Ukrainian President Volodymyr Zelenskyy and a Patriot system.Jens Buttner/ Reuters\r\n<ul><li>Israel could transfer up to eight Patriot missile batteries to Ukraine.</li><li>Israel is upgrading its air\u2026 [+4374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Madhusree Mukerjee",
+            "title": "Remote Island of Great Nicobar Threatened by Container Terminal",
+            "description": "A container port the Indian government plans for this remote island threatens unique Indigenous cultures and biodiversity",
+            "url": "https://www.scientificamerican.com/article/remote-island-of-great-nicobar-threatened-by-container-terminal/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/206520e84a9a9041/original/1_leatherbackbabygalatheabay_DSC7473_web.jpg?w=1200",
+            "publishedAt": "2024-06-21T12:00:00Z",
+            "content": "In 1667 a Swedish sailor reported that on his travels in the Far East he\u2019d landed on the island of Great Nicobar, whose inhabitants had \u201ca tail hanging like a cat\u2019s tail, but bald, and they could tos\u2026 [+29718 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ritholtz.com"
+            },
+            "author": "Barry Ritholtz",
+            "title": "At the Money: Is War Good for Markets?",
+            "description": "\ufeff \u00a0 At the Money: Is War Good for Markets? (February 14,\u00a0 2024) What does history tell us about how war impacts the stock market? What is the correlation between geopolitical conflict and inflation? Can these patterns inform us of future bull market behavior?\u2026",
+            "url": "https://ritholtz.com/2024/02/atm-is-war-good-for-markets/",
+            "urlToImage": "https://ritholtz.com/wp-content/uploads/2023/02/Mib-tile.png",
+            "publishedAt": "2024-02-14T13:00:14Z",
+            "content": "At the Money: Is War Good for Markets? (February 14,\u00a0 2024)\r\nWhat does history tell us about how war impacts the stock market? What is the correlation between geopolitical conflict and inflation? Can\u2026 [+14622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sonny.re"
+            },
+            "author": "Sonny's",
+            "title": "Sonny Piers response after removal from the GNOME Foundation board",
+            "description": "I am no longer a member of the board of directors of the GNOME Foundation since May 2024. The process and decision shocked me. I know peo...",
+            "url": "https://blog.sonny.re/retrospective-as-gnome-director",
+            "urlToImage": "https://i.snap.as/W5pFkgq1.jpg",
+            "publishedAt": "2024-07-22T01:40:54Z",
+            "content": "I am no longer a member of the board of directors of the GNOME Foundation since May 2024. The process and decision shocked me. I know people are looking for answers, but I want to protect people invo\u2026 [+2091 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Chris Baraniuk",
+            "title": "What it takes to reroute the biggest cargo ships on a 4K mile detour",
+            "description": "The Red Sea, a vital shipping lane, is under attack \u2013 what are the alternatives?",
+            "url": "https://www.bbc.com/future/article/20240119-red-sea-crisis-how-global-shipping-is-being-rerouted-out-of-danger",
+            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0h61xjb.jpg",
+            "publishedAt": "2024-01-22T15:00:45Z",
+            "content": "By Chris BaraniukFeatures correspondent\r\nCargo ships are being rerouted from shipping lanes through the Suez Canal and the Red Sea (Credit: Alamy)\r\nHundreds of cargo ships are being rerouted around t\u2026 [+9714 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jake Epstein,Chris Panella",
+            "title": "The US Navy is burning through missiles in the Middle East that it would need in a war with China",
+            "description": "Conflicts in the Middle East have raised concerns about the stockpiles of key interceptors the US would need in a high-end fight.",
+            "url": "https://www.businessinsider.com/us-navy-burns-through-key-missiles-needed-for-china-fight-2024-10",
+            "urlToImage": "https://i.insider.com/6707d41f6ac7b701e7ca01ef?width=1200&format=jpeg",
+            "publishedAt": "2024-10-11T08:00:01Z",
+            "content": "An SM-3 is launched from the USS Lake Erie during a test.US Navy photo\r\n<ul><li>The US Navy has been burning through interceptors fighting in Middle East conflicts, including the valuable SM-3.</li><\u2026 [+8155 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "NINIEK KARMINI / AP",
+            "title": "Muslims Worldwide Celebrate Eid al-Fitr, But the Festivities Are Marred by the War in Gaza",
+            "description": "As Muslims around the world mark the Eid al-Fitr holiday, celebrations are overshadowed by the worsening\u00a0humanitarian crisis in Gaza.",
+            "url": "https://time.com/6965405/muslims-eid-war-gaza/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-2148082375.jpg?quality=85",
+            "publishedAt": "2024-04-10T12:42:04Z",
+            "content": "JAKARTA, Indonesia Muslims around the world celebrated the Eid al-Fitr holiday Wednesday, marking the end of the Islamic holy month with family reunions, new clothes and sweet treats.\r\nBut the celebr\u2026 [+4798 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Megan Poinski, Forbes Staff, \n Megan Poinski, Forbes Staff\n https://www.forbes.com/sites/meganpoinski/",
+            "title": "2024 Brings Worldwide Elections And New Supply Chain Challenges",
+            "description": "The published version of Forbes\u2019 CEO newsletter delivers the latest news for today's and tomorrow's business leaders and decision makers, delivered to inboxes Sundays.",
+            "url": "https://www.forbes.com/sites/meganpoinski/2024/05/12/2024-brings-worldwide-elections-and-new-supply-chain-challenges/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6640bc0b6ba6506cc3afa697/0x0.jpg?format=jpg&crop=2324,1306,x0,y38,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-05-12T16:00:49Z",
+            "content": "This is the published version of Forbes CEO newsletter, which offers the latest news for today's and tomorrow's business leaders and decision makers. Click here to get it delivered to your inbox ever\u2026 [+14796 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Lorraine Mallinder",
+            "title": "\u2018Blood minerals\u2019: What are the hidden costs of the EU-Rwanda supply deal?",
+            "description": "EU plans to secure supplies for green revolution from Rwanda likely to support smuggling of conflict minerals from DRC.",
+            "url": "https://www.aljazeera.com/features/2024/5/2/blood-minerals-what-are-the-hidden-costs-of-the-eu-rwanda-supply-deal",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/2024-04-25T112446Z_1704162581_RC2MD7AX1ZZ8_RTRMADP_3_CONGO-APPLE-MINERALS-1714482659.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-05-02T10:53:41Z",
+            "content": "As the green revolution revs up, the European Union has signed a deal with Rwanda that will ensure a supply of precious minerals needed to build clean tech like solar panels and electric vehicles.\r\nW\u2026 [+10083 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Steve Banker, Contributor, \n Steve Banker, Contributor\n https://www.forbes.com/sites/stevebanker/",
+            "title": "Supply Chain Executives Face Growing C-Suite Complacency",
+            "description": "As Covid recedes, supply chain executives are losing the attention of the C-suite according to research by EY. Increasingly, the C-suite is returning to a focus on costs.",
+            "url": "https://www.forbes.com/sites/stevebanker/2024/10/04/supply-chain-executives-face-growing-c-suite-complacency/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67000c9d5435dedac05e5146/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-10-04T15:45:02Z",
+            "content": "Supply Chain Management (SCM). the end-to-end management of goods and services flow within a ... [+] business. Businessman touching the scm icon on digital screen\r\ngetty\r\nAccording to research by Ern\u2026 [+4733 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "Concerns over tea shortages are brewing in the U.K. But how serious is the threat to supply?",
+            "description": "The ongoing Houthi attacks in the Red Sea are causing concerns in Britain over potential tea shortages.",
+            "url": "https://www.cbc.ca/news/world/uk-tea-shortage-fears-houthis-1.7122838",
+            "urlToImage": "https://i.cbc.ca/1.7122862.1708638988!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sainsbury-s-tea.jpg",
+            "publishedAt": "2024-02-25T09:00:00Z",
+            "content": "Written in black and white, a small sign in one of the United Kingdom's biggest supermarket chains warned customers of a possible shortage of tea.\r\n\"We are experiencing supply issues affecting the na\u2026 [+6840 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "PJ Bain, Forbes Councils Member, \n PJ Bain, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/pjbain/",
+            "title": "Life, Business And Supply Chain Lessons From Teddy Roosevelt, Alex Honnold And Serena Williams",
+            "description": "No matter your company\u2019s level of success, never abandon the honest self-reflection and analysis that pave the way to continued growth, resilience and high performance.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2024/03/18/life-business-and-supply-chain-lessons-from-teddy-roosevelt-alex-honnold-and-serena-williams/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65f48a25c9bd04cdaf134469/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-03-18T12:30:00Z",
+            "content": "PJ Bain is Chief Executive Officer at PrimeRevenue, a global leader in working capital financial technology solutions.\r\ngetty\r\nTheodore Roosevelt. Alex Honnold. Serena Williams.\r\nWhat do they have in\u2026 [+6079 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Yves Smith",
+            "title": "European Economic Security in an Age of Interdependence",
+            "description": "Europe leaders and experts are spooked by what Covid and Ukraine war, erm, energy actions have done to their supply sources. What to do?",
+            "url": "https://www.nakedcapitalism.com/2024/05/european-economic-security-in-an-age-of-interdependence.html",
+            "urlToImage": null,
+            "publishedAt": "2024-05-07T14:08:19Z",
+            "content": "The world has changed. The age of unfettered globalisation, systemic convergence and increasing cultural understanding is over and is probably not coming back in the foreseeable future. Instead, mult\u2026 [+8104 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Stephen Collinson",
+            "title": "Fears rising of widened Middle East conflict and American troops are in firing line...",
+            "description": "Fears rising of widened Middle East conflict and American troops are in firing line...\r\n\n \n \n \n (Top headline, 4th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:ISRAEL IN WAR ON SEVEN FRONTS...\r\nSkepticism Grows Over Ability to Dismantle Hamas...\r\nIDF Soldier Die\u2026",
+            "url": "https://www.cnn.com/2023/12/27/politics/fears-middle-east-war-biden/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231226225921-gaza-smoke-122623.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-27T13:34:36Z",
+            "content": "Escalating attacks on US troops and commercial shipping\u00a0and incidents\u00a0often involving Iran and its proxies are causing new concerns that Israels war in Gaza could widen into a regional conflagration \u2026 [+8691 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Tesla halts Berlin production over Red Sea disruption",
+            "description": "The electric carmaker says longer delivery times have created supply chain issues as ships avoid the area.",
+            "url": "https://www.bbc.com/news/business-67947795",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10F2/production/_132283340_67953662.jpg",
+            "publishedAt": "2024-01-12T09:06:38Z",
+            "content": "By Jonathan Josephs &amp; Faisal IslamBBC News\r\nTesla is suspending manufacturing at its only European electric car factory as attacks in the Red Sea disrupt supplies.\r\nThe firm said longer delivery \u2026 [+5531 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Oyku Ilgar, Brand Contributor, \n Oyku Ilgar, Brand Contributor\n https://www.forbes.com/sites/sap/people/oykuilgar/",
+            "title": "AI-Powered Love: Unveiling The Mystery Behind The Business Of Valentine's Day",
+            "description": "Just like relationships, where transparency enables understanding and reduces conflict, transparency in supply chains helps eliminate uncertainties and avoid disruptions.",
+            "url": "https://www.forbes.com/sites/sap/2024/02/14/ai-powered-love-unveiling-the-mystery-behind-the-business-of-valentines-day/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65ccd0c6e9885befd70bd5ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-02-14T14:45:34Z",
+            "content": "Romance is not easy. Finding the right gift might be even harder. From rich brown gourmet chocolate treats to heavenly fragrant flowers, lets delve into the magical world of the Valentines Day supply\u2026 [+4441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Gaurav Sharma, Senior Contributor, \n Gaurav Sharma, Senior Contributor\n https://www.forbes.com/sites/gauravsharma/",
+            "title": "Oil Facilities In Iran That Could Be In Israel\u2019s Sights",
+            "description": "Iran's oil industry is an obvious target for Israel should it choose to retaliate. The extent of the impact depends on chosen targets and the scale of the response.",
+            "url": "https://www.forbes.com/sites/gauravsharma/2024/10/02/oil-facilities-in-iran-that-could-be-in-israels-sights/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66fd25f061e12dd7f7d9a9f6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-10-02T12:35:39Z",
+            "content": "An oil refinery in the Persian Gulf port of Bandar Abbas, Iran. (Photo: Jamshid Bairami)\r\nAFP via Getty Images\r\nAfter Iran attacked Israel with nearly 200 missiles late on Tuesday and the latter vowe\u2026 [+5557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Frontiersin.org"
+            },
+            "author": null,
+            "title": "Acetate Revisited: A Key Biomolecule at the Nexus of Metabolism, Epigenetics",
+            "description": "Acetate, the shortest chain fatty acid, has been implicated in providing health benefits whether it is derived from the diet or is generated from microbial f...",
+            "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2020.580171/full",
+            "urlToImage": "https://www.frontiersin.org/files/MyHome%20Article%20Library/580171/580171_Thumb_400.jpg",
+            "publishedAt": "2024-03-26T11:46:02Z",
+            "content": "Introduction\r\nDiabetes, obesity, heart disease, cancer, and liver disease have all been linked in various ways to acetate availability, metabolism, and signaling. Acetate supplementation induces phys\u2026 [+163834 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Businessofhome.com"
+            },
+            "author": "Warren Shoulberg",
+            "title": "Shipping costs and times are rising again. Should the home industry worry?",
+            "description": "Geopolitical conflict, climate change and shipping industry conditions have put the squeeze back on the global supply chain, once again hiking shipping...",
+            "url": "https://businessofhome.com/articles/shipping-costs-and-times-are-rising-again-should-the-home-industry-worry.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mfoZMRTSr6oz.pHeKUdgig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/business_of_home_858/cd6b7e6cb7ca7387864934a5aa4b13d6",
+            "publishedAt": "2024-07-05T17:00:00Z",
+            "content": "Retail Watch | Jul 5, 2024 \r\nBy Warren Shoulberg\r\nJust when you thought it was safe to ship a sofa overseas, another fistful of sand gets thrown into the global supply chains gears. While the issues \u2026 [+5460 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Claudia Assis",
+            "title": "A key Tesla metric is \u2018under threat.\u2019 Wall Street will soon learn more.",
+            "description": "Tesla's price cuts have led Wall Street to lower estimates for the electric-vehicle maker's profit, and to question its prospects.",
+            "url": "https://www.marketwatch.com/story/a-key-tesla-metric-is-under-threat-wall-street-will-soon-learn-more-40edd533",
+            "urlToImage": "https://images.mktw.net/im-74773642/social",
+            "publishedAt": "2024-01-22T20:39:00Z",
+            "content": "Tesla Inc.s price cuts have led Wall Street to lower estimates for the electric-vehicle makers profit, and to question its prospects. On Wednesday, investors will have a chance to see just how much t\u2026 [+2302 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Yves Smith",
+            "title": "The Fed and the \u201cSoft Landing\u201d \u2013 Policy or Luck?",
+            "description": "The Fed has little to do with the fall in inflation. Limited labor bargaining power and easing supply chain problems were more important.",
+            "url": "https://www.nakedcapitalism.com/2024/10/the-fed-and-the-soft-landing-policy-or-luck.html",
+            "urlToImage": null,
+            "publishedAt": "2024-10-01T10:31:34Z",
+            "content": "Yves here. This post provides a much-needed antidote to US inflation falling while the economy (for most) still looks pretty good. The Fed\u2019s performance may be tested soon by the port strikes, which \u2026 [+6189 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Federico Guerrini, Contributor, \n Federico Guerrini, Contributor\n https://www.forbes.com/sites/federicoguerrini/",
+            "title": "Geopolitical Chess: Europe's New Semiconductor Plant Aims To Reshape Industry Landscape",
+            "description": "Expected to reach full capacity by 2029, the facility aims to produce annually 480,000 wafers for automotive and industrial applications.",
+            "url": "https://www.forbes.com/sites/federicoguerrini/2024/08/24/geopolitical-chess-europes-new-semiconductor-plant-aims-to-reshape-industry-landscape/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66c9a078d45afb2a67814c18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-08-24T09:14:01Z",
+            "content": "Ursula von der Leyen, president of the European Commission, left, C.C. Wei, chief executive officer ... [+] of Taiwan Semiconductor Manufacturing Co., center, and Olaf Scholz, Germany's chancellor, p\u2026 [+3975 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alyssa Ochs",
+            "title": "Analysis warns that the cost of an everyday household item may surge by over 60% \u2014 here's what could happen",
+            "description": "\"Such tariffs would likely increase consumer prices, cause fewer jobs for American workers, and extend Americans' reliance on dirty energy.\"",
+            "url": "https://www.yahoo.com/news/analysis-warns-cost-everyday-household-103047531.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/D9hFUaxf3wPQJLeK_KDu3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/c5db10ee0b86376a91c1f485e4426514",
+            "publishedAt": "2024-08-28T10:30:47Z",
+            "content": "If the U.S. government approves newly proposed tariffs on Southeast Asian imports, solar panel prices could rise by two-thirds.\r\nWith this dramatic cost increase, solar project progress would be stun\u2026 [+2848 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Shannon K. Kingston",
+            "title": "US has yet to lay blame for device attacks across Lebanon. Why?",
+            "description": "The attacks put the Biden administration in a delicate position as it seeks to avoid a broader war in the Middle East.",
+            "url": "https://abcnews.go.com/Politics/biden-administration-treads-diplomatic-tightrope-after-device-attacks/story?id=113842804",
+            "urlToImage": "https://i.abcnewsfe.com/a/f7c8c9a2-2059-4431-abdd-5f1cfcec91a4/israel-lebanon-6-ap-gmh-240919_1726752154198_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-09-19T22:58:05Z",
+            "content": "Deadly device blasts across Lebanon this week broadly believed to have been orchestrated by Israel have sparked concern and even outright condemnation from much of the international community, puttin\u2026 [+5657 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Twz.com"
+            },
+            "author": "Thomas Newdick",
+            "title": "German Navy Confirms Its Supersized Frigate Will Avoid The Red Sea",
+            "description": "A German Navy warship is returning from an extensive deployment to the Indo-Pacific region via the Cape of Good Hope, avoiding a potentially hazardous...",
+            "url": "https://www.twz.com/news-features/german-navy-confirms-its-underarmed-super-sized-frigate-will-avoid-the-red-sea",
+            "urlToImage": "https://media.zenfs.com/en/the_warzone_735/831b4ec524b6ec6179e0507e4733fcc9",
+            "publishedAt": "2024-11-04T18:57:52Z",
+            "content": "A German Navy warship is returning from an extensive deployment to the Indo-Pacific region via the Cape of Good Hope, avoiding a potentially hazardous passage through the Red Sea, a German Ministry o\u2026 [+11985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Atlantic"
+            },
+            "author": "Juliette Kayyem",
+            "title": "Biden Can\u2019t Avoid the Suez Canal Problem",
+            "description": "An Iranian-backed group is attacking an essential shipping route. The U.S. will have to step in.",
+            "url": "https://www.theatlantic.com/ideas/archive/2023/12/suez-canal-houthi-gaza-biden/676973/?utm_source=feed",
+            "urlToImage": null,
+            "publishedAt": "2023-12-24T11:00:00Z",
+            "content": "The sooner President Joe Biden acknowledges that Americans will likely be drawn into a fight to protect shipping traffic through the Suez Canal, the more time the U.S. military has to plan, and the l\u2026 [+4725 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theron Mohamed",
+            "title": "Tech titans love Modi's economic powerhouse India \u2014 despite mass unemployment and abject poverty",
+            "description": "India is on track to become the world's third-largest economy by 2027, but Narendra Modi faces a pile of problems if he wins a third term in power.",
+            "url": "https://www.businessinsider.com/modi-india-election-economy-russia-oil-wealth-dimon-cook-musk-2024-5",
+            "urlToImage": "https://i.insider.com/66326aa2ec0c696569ffacab?width=1200&format=jpeg",
+            "publishedAt": "2024-05-04T09:02:02Z",
+            "content": "Indian Prime Minister Narendra Modi.Kevin Frayer/Getty\r\n<ul><li>The Indian economy has grown strongly under Narendra Modi, whose party is set to win another term.</li><li>India's success has caught t\u2026 [+10933 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Rick Helfenbein, Contributor, \n Rick Helfenbein, Contributor\n https://www.forbes.com/sites/rickhelfenbein/",
+            "title": "Retail Alert \u2013 Trump\u2019s Party Is Looking At Your Supply Chain",
+            "description": "Flying right in the center of the latest political storm, America\u2019s retail community is on high alert for endangered supply chains.",
+            "url": "https://www.forbes.com/sites/rickhelfenbein/2024/07/21/retail-alert--trumps-party-is-looking-at-your-supply-chain/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/669dc46435f6506279aaab39/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-22T03:03:04Z",
+            "content": "Horizontal photo of the words: \"TRADE WARS\" in black letters with the U.S. FLAG and the CHINESE FLAG ... [+] underneath the words. The US flag is FACING AWAY from the Chinese flag , alluding to the c\u2026 [+5752 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Grist"
+            },
+            "author": "Ayurella Horn-Muller",
+            "title": "Helene and Milton upended a key part of the nation\u2019s food supply",
+            "description": "America depends on Southeastern agriculture. After two hurricanes and billions of dollars in damages, the US food supply chain faces an uncertain future.",
+            "url": "http://grist.org/food-and-agriculture/helene-and-milton-upended-a-key-part-of-the-nations-food-supply/",
+            "urlToImage": "https://grist.org/wp-content/uploads/2024/10/Farmer-in-field-of-cotton-Helene.jpg?quality=75&strip=all",
+            "publishedAt": "2024-10-24T08:45:00Z",
+            "content": "When Hurricane Helene made landfall in Florida three weeks ago, Jason Madison was alone at his place, which doubled as a shrimp storefront in Keaton Beach. As the wind began to roar and the bay start\u2026 [+8296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mckinsey.com"
+            },
+            "author": null,
+            "title": "Economic conditions outlook, March 2024",
+            "description": "Survey responses show increased confidence in the economy\u2014globally and at home. Geopolitical concerns persist, and respondents increasingly view political transitions and policy changes as pressing risks.",
+            "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/economic-conditions-outlook-2024",
+            "urlToImage": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/strategy%20and%20corporate%20finance/our%20insights/economic%20conditions%20outlook%202024/economic-conditions-outlook-march-2024-1455951980-thumb-1536x1536.jpg",
+            "publishedAt": "2024-03-29T00:00:00Z",
+            "content": "Executives latest views on the global economy and their countries economies lean much more positive than they did at the end of 2023. \r\nIn the latest McKinsey Global Survey on economic conditions,1Th\u2026 [+6075 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Jeffrey Sonnenfeld and Stephen Henriques",
+            "title": "Kamala Harris Can Win by Embracing the Biden-Harris Record",
+            "description": "Harris should forcefully articulate the true triumphs of the administration in which she serves.",
+            "url": "https://time.com/7092811/kamala-harris-biden-method-economy/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/10/kamala-harris-biden-record.jpg?quality=85&crop=0px%2C38px%2C2400px%2C1256px&resize=1200%2C628&strip",
+            "publishedAt": "2024-10-15T15:49:10Z",
+            "content": "In her recent interview on The View, Vice President Kamala Harris was asked what differentiates her from President Joe Biden. The question suggests that for Harris to win she must show how she is dif\u2026 [+6361 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Project Syndicate"
+            },
+            "author": "Arvind Subramanian",
+            "title": "The Sino-American Trade War Benefits China\u2019s Competitors",
+            "description": "China\u00a0is widely expected to\u00a0retaliate against the latest US tariffs on its exports. While this could trigger a full-scale trade war and possibly a broader geopolitical conflict, India and other countries stand to expand their foothold in Western markets as Ch\u2026",
+            "url": "https://www.project-syndicate.org/commentary/us-china-trade-war-creates-opportunities-for-india-and-other-developing-countries-by-arvind-subramanian-2024-5-2024-05",
+            "urlToImage": "https://webapi.project-syndicate.org/library/d8de65f87f7cd7346893915b2759ef49.2-1-super.1.jpg",
+            "publishedAt": "2024-05-23T13:17:29Z",
+            "content": "China\u00a0is widely expected to\u00a0retaliate against the latest US tariffs on its exports. While this could trigger a full-scale trade war and possibly a broader geopolitical conflict, India and other count\u2026 [+6438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Project Syndicate"
+            },
+            "author": "PS Commentators",
+            "title": "The US-China Trade War Heats Up",
+            "description": "A spate of new US tariffs on Chinese goods has raised the specter of full economic decoupling between the world\u2019s two largest economies. For many observers, the measures are not only misguided, but also counter-productive, with the potential to undermine econ\u2026",
+            "url": "https://www.project-syndicate.org/onpoint/the-us-china-trade-war-heats-up",
+            "urlToImage": "https://webapi.project-syndicate.org/library/bd4f5a8b1144740917c39b663973cade.2-1-super.1.jpg",
+            "publishedAt": "2024-05-24T08:54:14Z",
+            "content": "WASHINGTON, DC US President Joe Biden and his predecessor Donald Trump, the presumptive Republican nominee in Novembers presidential election, are competing to portray themselves as tough on trade an\u2026 [+5885 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Stephen DeAngelis, Forbes Councils Member, \n Stephen DeAngelis, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/stephendeangelis/",
+            "title": "Systems Of Intelligence: The Next Era Of CPG Value Chain Optimization And Decision-Making",
+            "description": "The rise of the SOI resembles a powerful paradigm shift in how enterprise data will be utilized to drive value, competitiveness and resiliency moving forward.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2024/05/13/systems-of-intelligence-the-next-era-of-cpg-value-chain-optimization-and-decision-making/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/663e8a9f47a5bcd2662a223c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-05-13T11:45:00Z",
+            "content": "Stephen DeAngelis is the CEO and Founder of Enterra Solutions. \r\ngetty\r\nGeopolitical tensions like the war in Ukraine and the Red Sea conflict are disrupting the flow of raw materials essential to ev\u2026 [+6769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Ayurella Horn-Muller / Grist",
+            "title": "Hurricanes are wreaking havoc on America's food supply",
+            "description": "Hurricanes Helene and Milton are expected to reduce feed and fertilizer supplies and increase production costs, which could drive up prices",
+            "url": "https://qz.com/hurricane-helene-milton-damage-food-agriculture-prices-1851680131",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/56b082cd2153ab1be6501a213a43f789.webp",
+            "publishedAt": "2024-10-24T13:28:00Z",
+            "content": "This story was originally published by Grist. Sign up for Grists weekly newsletter here.\r\nWhen Hurricane Helene made landfall in Florida three weeks ago, Jason Madison was alone at his place, which d\u2026 [+8678 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Saul Elbein",
+            "title": "Big Oil, clean energy chart future of geothermal energy",
+            "description": "HOUSTON \u2014 The future of an emerging form of American clean energy could be built on an unexpected foundation: technology and experience from Big Oil. At...",
+            "url": "https://thehill.com/policy/energy-environment/4879149-geothermal-energy-oil-gas-summits/",
+            "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/c99e1ddd2dc3ebd68bef14bb831d61da",
+            "publishedAt": "2024-09-14T20:00:28Z",
+            "content": "HOUSTON The future of an emerging form of American clean energy could be built on an unexpected foundation: technology and experience from Big Oil.\r\nAt least, thats the hope of representatives of maj\u2026 [+10675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mckinsey.com"
+            },
+            "author": null,
+            "title": "Helping boards manage geopolitical risk with Jon Huntsman Jr.",
+            "description": "In a conversation with the board director and former diplomat, two McKinsey experts offer advice on how boards can guide their organizations through volatile times.",
+            "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/helping-boards-manage-geopolitical-risk-with-jon-huntsman-jr",
+            "urlToImage": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/strategy%20and%20corporate%20finance/our%20insights/helping%20boards%20manage%20geopolitical%20risk%20with%20jon%20huntsman%20jr/helping-boards-navigate-geo-risks_standard_1536x1536.png",
+            "publishedAt": "2024-07-10T00:00:00Z",
+            "content": "Assisting management in navigating todays geopolitical complexity\u00a0has become one of boards most important and difficult tasks. In this episode of the Inside the Strategy Room podcast, Ziad Haider, Ce\u2026 [+16222 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Gunar Olsen",
+            "title": "Take the Houthi Support for Palestinian Liberation Seriously",
+            "description": "When they were being bombed by Saudi Arabia with the help of U.S. intelligence and American-made weapons for the better part of the last decade, commentary on the Houthis among the foreign policy elite ranged from concern over the war\u2019s humanitarian consequen\u2026",
+            "url": "https://newrepublic.com/article/178415/houthi-yemen-palestinian-liberation-ceasefire",
+            "urlToImage": "https://images.newrepublic.com/aac6e67a92c61d7d4355e00fdaa1efdbdd551ac6.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2024-02-02T15:14:13Z",
+            "content": "Similarly, belittling Ansar Allahs Palestine solidarity misrepresents it as some form of shrewd opportunisma way to appeal to the mass pro-Palestine sentiment in Yemen and across the Arab world. Supp\u2026 [+1777 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Francis Dinha, Forbes Councils Member, \n Francis Dinha, Forbes Councils Member\n https://www.forbes.com/councils/forbestechcouncil/people/francisdinha/",
+            "title": "Cybersecurity And Geopolitics: Protecting Businesses In A Volatile World",
+            "description": "Seasoned executive or a budding entrepreneur, understanding the interplay of cybersecurity and geopolitics is no longer optional\u2014it's essential for the digital age.",
+            "url": "https://www.forbes.com/councils/forbestechcouncil/2024/10/14/cybersecurity-and-geopolitics-protecting-businesses-in-a-volatile-world/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67096ab7f1ea669b20a9160f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-10-14T11:45:00Z",
+            "content": "Francis Dinha is CEO and cofounder of OpenVPN Inc., a leading-edge networking and software technology company.\r\ngetty\r\nWhen it comes to cybersecurity, we all need to be having conversations that exte\u2026 [+6678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Taiwan says it did not make Hezbollah pager parts",
+            "description": "The comments come after Taiwanese firm Gold Apollo said it did not make the devices used in the attack.",
+            "url": "https://www.bbc.com/news/articles/c93yg2w53dzo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dc5a/live/21045dc0-7709-11ef-963c-f3a7345b843e.jpg",
+            "publishedAt": "2024-09-20T05:27:36Z",
+            "content": "The Taiwanese government has said components in thousands of pagers used by the armed group Hezbollah that exploded in Lebanon earlier this week were not made on the island.\r\nThe comments come after \u2026 [+2097 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Asgar Ali",
+            "title": "Gum arabic from Africa's acacia trees in the Sahel is used in hundreds of products: What's worth knowing",
+            "description": "The conflict in Sudan has turned attention to a rarely discussed commodity: gum arabic. This product, the dried sap of certain species of acacia trees, is used mainly as an additive in the soft drinks industry. Sudan accounts for about 70% of global gum arabi\u2026",
+            "url": "https://phys.org/news/2024-04-gum-arabic-africa-acacia-trees.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/gum-arabic.jpg",
+            "publishedAt": "2024-04-30T17:10:06Z",
+            "content": "This article has been reviewed according to Science\u00a0X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r\u2026 [+5778 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Claudia Assis",
+            "title": "Here\u2019s the No. 1 question retail investors want Tesla to answer ahead of earnings",
+            "description": "Amid hundreds of questions for Tesla earnings day, one reigns supreme.",
+            "url": "https://www.marketwatch.com/story/heres-the-no-1-question-retail-investors-want-tesla-to-answer-ahead-of-earnings-12dae1ee",
+            "urlToImage": "https://images.mktw.net/im-04817671/social",
+            "publishedAt": "2024-01-23T19:21:00Z",
+            "content": "Tesla Inc.s investors have a lot on their minds right now: questions swirl about the companys official outlook for the year, the demand picture amid a slowdown in electric-vehicle sales, and the EV m\u2026 [+3405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Jose Caballero",
+            "title": "Global triggers: Why these five big issues could cause significant problems in 2024",
+            "description": "The tensions between the US and China made the global economy shudder in 2023. The ramifications of the Ukrainian war echoed beyond the country's border. In Africa, the coup d'\u00e9tat in Niger and Gabon contributed to the global democratic retreat of recent year\u2026",
+            "url": "https://phys.org/news/2024-01-global-triggers-big-issues-significant.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/global-map.jpg",
+            "publishedAt": "2024-01-04T17:21:06Z",
+            "content": "The tensions between the US and China made the global economy shudder in 2023. The ramifications of the Ukrainian war echoed beyond the country's border. In Africa, the coup d'\u00e9tat in Niger and Gabon\u2026 [+6172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Fayola-Maria Jack, Forbes Councils Member, \n Fayola-Maria Jack, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/fayolamariajack/",
+            "title": "A Novel Approach To Conflict Resolution In Business",
+            "description": "This article explains the Three Strand Management\u00ae method and gives you tips on how you can build TSM principles into conflict resolution practices within your business.",
+            "url": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/16/a-novel-approach-to-conflict-resolution-in-business/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/634424102b7ff12772de06ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-01-16T12:00:00Z",
+            "content": "Fayola-Maria Jack, PC.dp. MCIPS MBA PhD Candidate is an awarded contracts &amp; dispute resolution expert and CEO of Healthy Good Business \u00ae.\r\ngetty\r\nThe prevalence of damaged trade relationships sig\u2026 [+7219 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Connor Jones",
+            "title": "Future of America's Cyber Safety Review Board hangs in balance amid calls for rethink",
+            "description": "Politics-busting, uber-transparent incident reviews require independence, less internal conflict\nAs the US mulls legislation that would see the Cyber Safety Review Board (CSRB) become a permanent fixture in the government's cyber defense armory, experts are c\u2026",
+            "url": "https://www.theregister.com/2024/01/18/cyber_safety_review_board_rethink/",
+            "urlToImage": "https://regmedia.co.uk/2022/03/11/american_flag_us_capitol_shutterstock.jpg",
+            "publishedAt": "2024-01-18T18:30:12Z",
+            "content": "As the US mulls legislation that would see the Cyber Safety Review Board (CSRB) become a permanent fixture in the government's cyber defense armory, experts are calling for substantial changes in the\u2026 [+7911 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Billy Perrigo/Dubai",
+            "title": "The UAE Is on a Mission to Become an AI Power",
+            "description": "The tiny Gulf nation\u2014using oil wealth and its citizens\u2019 data\u2014is betting on AI to project influence beyond its borders.",
+            "url": "https://time.com/6958369/artificial-intelligence-united-arab-emirates/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/240408_WUAE_04-illo.jpg?quality=85",
+            "publishedAt": "2024-03-20T10:23:46Z",
+            "content": "At an AI research lab on the edges of Abu\u00a0Dhabi last year, an international team of 25 computer scientists were putting the finishing touches on a deep learning algorithm before sending it to be trai\u2026 [+18011 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Mirko Zorz",
+            "title": "How nation-states exploit political instability to launch cyber operations",
+            "description": "In this Help Net Security interview, Ismael Valenzuela, Vice President of Threat Research & Intelligence at BlackBerry, discusses the impact of geopolitical tensions on the frequency and sophistication of cyberattacks. He explains how nation-states and politi\u2026",
+            "url": "https://www.helpnetsecurity.com/2024/10/15/ismael-valenzuela-blackberry-political-instability-cyber-operations/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/10/10130943/ismael_valenzuela-2-blackberry.webp",
+            "publishedAt": "2024-10-15T04:30:42Z",
+            "content": "In this Help Net Security interview, Ismael Valenzuela, Vice President of Threat Research &amp; Intelligence at BlackBerry, discusses the impact of geopolitical tensions on the frequency and sophisti\u2026 [+12215 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "John T Psaropoulos",
+            "title": "As Ukraine war rages, Russia activates sabotage plans in Europe: Experts",
+            "description": "Russia is accused of putting into effect psychological, economic and military operations planned by the USSR.",
+            "url": "https://www.aljazeera.com/news/2024/5/29/as-ukraine-war-rages-russia-activates-sabotage-plans-in-europe-experts",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/05/2018-11-02T160626Z_951838612_RC191D3F4740_RTRMADP_3_BRITAIN-RUSSIA-PUTIN-1716974507.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-05-29T10:17:34Z",
+            "content": "Intelligence experts have warned that Europe is under a growing threat from Russian sabotage operations, and believe those operations aim to secure concrete military results in Ukraine, political and\u2026 [+10072 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Attiya Zainib",
+            "title": "ConocoPhillips (COP): A Good Energy Stock to Add to Your Retirement Stock Portfolio",
+            "description": "We recently published a list of Retirement Stock Portfolio: 12 Energy Stocks To Consider. In this article, we are going to take a look at where...",
+            "url": "https://finance.yahoo.com/news/conocophillips-cop-good-energy-stock-195612333.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-09-14T19:56:12Z",
+            "content": "We recently published a list of\u00a0Retirement Stock Portfolio: 12 Energy Stocks To Consider. In this article, we are going to take a look at where ConocoPhillips (NYSE:COP) stands against other energy s\u2026 [+7379 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Atlas"
+            },
+            "author": "C.C. Weiss",
+            "title": "Lithium-free sodium batteries exit the lab and enter US production",
+            "description": "Two years ago, sodium-ion battery pioneer Natron Energy was busy preparing its specially formulated sodium batteries for mass production. The company slipped a little past its 2023 kickoff plans, but it didn't fall too far behind as far as mass battery produc\u2026",
+            "url": "https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/",
+            "urlToImage": "https://assets.newatlas.com/dims4/default/32bc915/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd6%2F44%2F880e6e504ff18b0b4363861a01ec%2Fnatron-bluepack.jpg&na.image_optimisation=0",
+            "publishedAt": "2024-05-03T03:17:05Z",
+            "content": "Two years ago, sodium-ion battery pioneer Natron Energy was busy preparing its specially formulated sodium batteries for mass production. The company slipped a little past its 2023 kickoff plans, but\u2026 [+3772 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Steve Banker, Contributor, \n Steve Banker, Contributor\n https://www.forbes.com/sites/stevebanker/",
+            "title": "The Tug Of War Between The Circular Economy And Capitalism",
+            "description": "When it comes to waste, the practices of the Fast Fashion industry are particularly insidious. There is an inherent conflict between capitalism and the circular economy.",
+            "url": "https://www.forbes.com/sites/stevebanker/2024/07/31/the-tug-of-war-between-the-circular-economy-and-capitalism/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66aa5c21dee4a07d12a510ec/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-07-31T15:47:35Z",
+            "content": "25 November 2021, Chile, Alto Hospicio: Used clothes sit in a landfill in the desert. In the nearby ... [+] free trade zone of Iquique, 29,178 tons of used clothing arrived in 2021 through October. A\u2026 [+5231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "William A. Stoltz",
+            "title": "Fuel shortages and bare pharmacies: What a possible war with China could look like",
+            "description": "The intensifying great power competition between the People's Republic of China and the United States has meant the possibility of future war in the Indo-Pacific region has become a regular feature of Australia's national discourse.",
+            "url": "https://phys.org/news/2024-09-fuel-shortages-pharmacies-war-china.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/fuel-shortages-and-bar.jpg",
+            "publishedAt": "2024-09-11T16:40:04Z",
+            "content": "The intensifying great power competition between the People's Republic of China and the United States has meant the possibility of future war in the Indo-Pacific region has become a regular feature o\u2026 [+7853 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Skift"
+            },
+            "author": "Skift",
+            "title": "Lufthansa Takes \u20ac350 Million Hit From Strike Action, Slashes Yearly Forecast",
+            "description": "The German airline group has warned that increasing tension in the Middle East could also affect its bottom line. -Gordon Smith",
+            "url": "http://skift.com/2024/04/15/lufthansa-takes-e350-million-hit-from-strikes/",
+            "urlToImage": "https://skift.com/wp-content/uploads/2021/02/lufthansa-1-scaled-e1612281692628.jpg",
+            "publishedAt": "2024-04-15T16:55:13Z",
+            "content": "The Lufthansa Group is slashing its financial forecast after a series of strikes affected its operations and warned rising tensions in the Middle East could further affect its bottom line.\r\nThe Germa\u2026 [+2331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Substack.com"
+            },
+            "author": "Rob L",
+            "title": "As Much as You Ever Wanted to Know About 155M Artillery Shell Production",
+            "description": "America: The Ultimate Crammer",
+            "url": "https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8db939aa-62f0-4feb-a776-b7d8b5d4b875_1280x853.jpeg",
+            "publishedAt": "2024-02-08T01:07:25Z",
+            "content": "I am an engineer by training with the questionable instinct to run towards problems, especially problems that should not be problems. When I heard that the United States could not produce sufficient \u2026 [+17239 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Project Syndicate"
+            },
+            "author": "Carla Norrl\u00f6f",
+            "title": "What the Global Economy and Security Require",
+            "description": "If America and its allies are to maximize both security and prosperity in the coming years, policymakers and strategists will have to understand the complex interplay of forces that is making the world more adversarial and fraught with risk. The global enviro\u2026",
+            "url": "https://www.project-syndicate.org/commentary/economic-security-agenda-balancing-competing-objectives-by-carla-norrlof-2024-01",
+            "urlToImage": "https://webapi.project-syndicate.org/library/83733a9974d5a6000dbb388addecfe98.2-1-super.1.jpg",
+            "publishedAt": "2024-01-12T12:31:14Z",
+            "content": "If America and its allies are to maximize both security and prosperity in the coming years, policymakers and strategists will have to understand the complex interplay of forces that is making the wor\u2026 [+1497 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Koray K\u00f6se, Forbes Councils Member, \n Koray K\u00f6se, Forbes Councils Member\n https://www.forbes.com/councils/forbestechcouncil/people/koraykose/",
+            "title": "Why Supply Chain Technology Keeps Failing\u2014And How To Fix It",
+            "description": "Central to this issue is the sunk cost fallacy, where decision-makers hesitate to abandon failing ventures due to prior investments.",
+            "url": "https://www.forbes.com/councils/forbestechcouncil/2024/11/20/why-supply-chain-technology-keeps-failing-and-how-to-fix-it/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65ef6abf24134eda7c4041e9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-11-20T15:00:00Z",
+            "content": "Koray K\u00f6se is a supply chain expert, tech futurist, author, former Gartner analyst and CEO &amp; Founder of KSE ADVISORY.\r\ngetty\r\nAs a former supply chain and procurement executive, Gartner analyst, \u2026 [+6600 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Mark T. Esper",
+            "title": "America\u2019s future advantage depends on quick adoption of advanced tech",
+            "description": "The U.S. military must learn from Ukraine and accelerate its adoption of advanced AI and robotics, former Defense Secretary Mark T. Esper argues.",
+            "url": "https://www.yahoo.com/news/america-future-advantage-depends-quick-120000678.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xnqz7W67LGl7AMaxfDjQ8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/military_times_968/2d6fe87ce81678f5801803f804ed11c5",
+            "publishedAt": "2024-09-14T12:00:00Z",
+            "content": "After more than two years of conflict in Ukraine, it is obvious how lower-cost, more easily producible, advanced technologies notably unmanned systems are giving the Ukrainian military an asymmetric \u2026 [+4470 chars]"
+        }
+    ]
+}
